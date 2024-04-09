@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: diplom
+  datasource:
+    url: jdbc:mysql://localhost:3306/Diplom
+    username: root
+    password: qwer
+
